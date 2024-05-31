@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.min.edu.model.JobsSelectDaoImpl">
+
+<!-- 0529 수업 점심시간 직전 화면 오른쪽 노란색 메모장 필기 보기! -->
+	<!-- 반복되는 쿼리문은 변수로 만들어서 사용 가능!! -->
+	<sql id="allColumn">
+		SELECT JOB_ID, JOB_TITLE, MIN_SALARY, MAX_SALARY
+		FROM JOBS
+	</sql>
+	
+	<!-- 
+		resultMap을 사용하는 경우
+		1) sql 문의 컬럼 결과를 특정 개수만 매핑할 때
+		2) sql 문의 컬럼명이 DTO/VO의 setter 메소드와 매핑 이름이 다른 경우
+	 -->
+	
+	<resultMap type="com.min.edu.vo.JobsVo" id="JobsVoMap">
+		<result column="PLAYER_ID" property="job_id"/> 
+		<!--column: 반환될 컬럼/ property: 매핑될 컬럼  -->
+		<result column="PLAYER_NAME" property="	job_title"/>
+		<result column="HEIGHT" property="min_salary"/>
+		<result column="WEIGHT" property="max_salary"/>
+	</resultMap>
+	
+	
+	<!-- 
+		전달되는 parameterType에 따라서 사용 방법이 달라진다 
+		Primitive Type의 경우는 
+		1) 객체가 아닌 값으로 전달하기 때문에 getter/setter의 이름을 가지고 있지 않다 
+		2) 객체가 담겨있는 타입이 아니기 때문에, 정해진 호출 이름이 없다(맘대로 써도 됨) 
+		3) 전송되는 값은 객체이기 때문에 Wrapper Class를 사용해야 한다 int->Integer 
+		*** 주의사항 쿼리는 반드시 대문자로 작성해야 쿼리로 인식 소문자는 쿼리의 컬럼이 아니라 변수로 인식 
+	-->
+	<select id="select01" parameterType="java.lang.String"
+		resultType="java.lang.Integer">
+		SELECT MIN_SALARY
+		FROM JOBS
+		WHERE JOB_ID=#{x}
+		<!-- 들어가는 값 id->string/ 나오는 값 min_salary->int -->
+	</select>
+
+	<!-- 
+		primitiveType으로 하나의 값을 입력받고 resultType으로 여러개의 값을 vo 혹은 dto 객체로 처리한다 
+		컬럼명과 vo 매핑=> 컬럼명에 해당하는 같은 이름을 가진 setter 메소드 존재 필수! 
+	-->
+	<select id="select02" parameterType="java.lang.String"
+		resultType="com.min.edu.vo.JobsVo">
+		<include refid="allColumn"/>
+		WHERE JOB_ID=#{id}
+	</select>
+	
+	<!-- 
+		primitiveType으로 하나의 값을 입력받고 resultType으로 여러개의 값을 vo 혹은 dto 객체로 처리한다 
+		만약 컬럼명 혹은 setter의 이름이 다르다면: sql문은 alias를 사용하게 된다
+											sql문의 결과를 특정 dto/vo에 맞춰 결과를 반환시킨다
+		mybatis 3.x 버전에서는 parameterType을 선언하지 않아도 자동으로 형변환 및 매핑을 진행
+		
+	 -->
+<!--<select id="select03" resultType="JobsVo"> -->	
+
+	<!-- result Map 처리 방법 -->
+	<select id="select03" resultMap="JobsVoMap">
+	SELECT PLAYER_ID, 
+	 		PLAYER_NAME, 
+	 		HEIGHT, 
+	 		WEIGHT
+ 		FROM PLAYER p
+ 		WHERE PLAYER_ID=#{id}
+
+
+
+	 <!-- alias 처리 방법 -->
+<!-- 	 SELECT PLAYER_ID AS JOB_ID,  -->
+<!-- 	 		PLAYER_NAME AS JOB_TITLE,  -->
+<!-- 	 		HEIGHT AS MIN_SALARY,  -->
+<!-- 	 		WEIGHT AS MAX_SALARY -->
+<!--  		FROM PLAYER p -->
+<!--  		WHERE PLAYER_ID=#{id} -->
+
+
+	 </select>
+	 
+	 <!--
+	 	resultType의 반환을 java.util.map으로 처리하는 방법 
+	 	- JSON 객체를 만들어 반환하는 서비스에서 사용 가능
+	  -->
+	<select id="select04" resultType="java.util.Map">
+		<include refid="allColumn"/>
+		<!-- select list 가져옴 -->
+	</select>	
+	
+	<!--
+		parameter DTO/VO->DTO
+		전달 값이 여러 개인 경우 DTO를 통해 전달
+		반드시 DTO의 객체는 getter 메소드가 있어야 한다  
+	 -->
+	
+	<select id="select05" parameterType="JobsVo" resultType="JobsVo">
+		<include refid="allColumn"/>
+		WHERE JOB_ID=#{job_id} AND JOB_TITLE=#{job_title}
+	</select>
+	
+	
+	<!--
+		parameter의 전달 값이 여러 개이고
+		DTO/VO와 같은 객체를 사용하지 않고 java.util.Map을 통해 전달
+		primitive는 두 개 이상을 전달 할 수 없다
+		primitive는 판단 문법을 사용할 수 없다. 
+	 -->
+	 
+	 <select id="select06" parameterType="java.util.Map" resultType="JobsVo">
+	 	<include refid="allColumn"/>
+	 	WHERE JOB_ID=#{id} AND JOB_TITLE=#{title}
+	 </select>
+	 
+	 <select id="select07" parameterType="java.lang.Object" resultType="JobsVo">
+	 	<include refid="allColumn"/>
+<!-- 	 	WHERE MIN_SALARY < 2000 -->
+<!-- 작다의 의미가 태그의 열림의 의미도 되기 때문에 오류 -->
+
+<!-- 아래와 같이 CDATA 사용하면 됨 -->
+<!-- 꺾쇠를 태그가 아닌 문자열로 인식 -->
+<!-- 하지만 #{sal}과 같은 문법은 그냥 써도 문자열로 인식하지 않음, 써도 됨 -->
+		<![CDATA[WHERE MIN_SALARY < #{sal}]]>
+			
+	 </select>
+</mapper>

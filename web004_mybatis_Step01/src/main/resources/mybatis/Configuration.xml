@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE configuration PUBLIC "-//mybatis.org//DTD Config 3.0//EN" "http://mybatis.org/dtd/mybatis-3-config.dtd" >
+<configuration>
+
+	<!-- 사용되는 DataSource 객체 생성 -->
+	<!-- oracle.properties에서 정보 읽어옴 -->
+	<properties resource="properties/oracle.properties" />
+	
+	<!-- 사용되는 POJO 객체를 호출하기 위한 Alias 작성 -->
+	<typeAliases>
+		<typeAlias type="com.min.edu.vo.JobsVo" alias="JobsVo"/>
+	</typeAliases>
+
+	<environments default="development">
+		<!-- environments: 환경 정의 -->
+		<environment id="development">
+			<!-- environment: 특정 환경 정의 -->
+			<transactionManager type="JDBC" />
+			<!-- transactionManager: 트랜잭션 관리자 정의 -->
+			<dataSource type="POOLED">
+				<!-- dataSource: 데이터 소스를 정의/ 여기서는 커넥션 풀링이 적용된 POOLED 타입의 데이터 소스를 사용 -->
+				<!-- 커넥션 풀링: 데이터베이스 연결을 미리 일정 개수만큼 만들어 풀(pool)에 저장해 두고, 애플리케이션에서 필요할 
+					때마다 풀에서 커넥션을 가져다 쓰고, 사용이 끝나면 다시 풀에 반환하는 방식 -->
+				<property name="url" value="${url}" />
+				<!-- property: 데이터 소스의 속성들을 정의 -->
+				<property name="driver" value="${driver}" />
+				<property name="username" value="${user}" />
+				<property name="password" value="${pw}" />
+			</dataSource>
+		</environment>
+	</environments>
+
+	<!-- mapper 등록 -->
+	<mappers>
+		<mapper resource="sql/A_jobs_Mapper.xml" />
+		<mapper resource="sql/B_jobs_Mapper.xml" />
+		<mapper resource="sql/C_IDU_Mapper.xml" />
+	</mappers>
+</configuration>

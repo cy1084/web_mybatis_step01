@@ -1,0 +1,366 @@
+2024-05-28 12:38:20 DEBUG LogFactory:109 - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2024-05-28 12:38:20 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-28 12:38:20 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-28 12:38:20 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-28 12:38:20 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-28 14:07:01 DEBUG LogFactory:109 - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2024-05-28 14:07:01 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-28 14:07:01 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-28 14:07:01 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-28 14:07:01 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-28 14:40:31 DEBUG LogFactory:109 - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2024-05-28 14:40:31 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-28 14:40:31 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-28 14:40:31 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-28 14:40:31 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-28 15:25:32 DEBUG LogFactory:109 - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2024-05-28 15:25:32 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-28 15:25:32 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-28 15:25:32 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-28 15:25:32 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-28 15:25:32 DEBUG JdbcTransaction:143 - Opening JDBC Connection
+2024-05-28 15:25:58 DEBUG LogFactory:109 - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2024-05-28 15:25:58 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-28 15:25:58 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-28 15:25:58 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-28 15:25:58 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-28 15:25:58 DEBUG JdbcTransaction:143 - Opening JDBC Connection
+2024-05-28 15:26:10 DEBUG LogFactory:109 - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2024-05-28 15:26:10 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-28 15:26:10 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-28 15:26:10 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-28 15:26:10 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-28 15:26:10 DEBUG JdbcTransaction:143 - Opening JDBC Connection
+2024-05-28 15:27:51 DEBUG LogFactory:109 - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2024-05-28 15:27:51 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-28 15:27:51 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-28 15:27:51 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-28 15:27:51 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-28 15:27:51 DEBUG JdbcTransaction:143 - Opening JDBC Connection
+2024-05-28 15:31:42 DEBUG LogFactory:109 - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2024-05-28 15:31:42 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-28 15:31:42 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-28 15:31:42 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-28 15:31:42 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-28 15:31:42 DEBUG JdbcTransaction:143 - Opening JDBC Connection
+2024-05-28 15:33:19 DEBUG LogFactory:109 - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2024-05-28 15:33:19 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-28 15:33:19 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-28 15:33:19 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-28 15:33:19 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-28 15:33:19 DEBUG JdbcTransaction:143 - Opening JDBC Connection
+2024-05-28 15:34:35 DEBUG LogFactory:109 - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2024-05-28 15:34:35 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-28 15:34:35 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-28 15:34:35 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-28 15:34:35 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-28 15:34:35 DEBUG JdbcTransaction:143 - Opening JDBC Connection
+2024-05-28 15:35:22 DEBUG LogFactory:109 - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2024-05-28 15:35:22 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-28 15:35:22 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-28 15:35:22 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-28 15:35:22 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-28 15:35:22 DEBUG JdbcTransaction:143 - Opening JDBC Connection
+2024-05-28 15:36:26 DEBUG LogFactory:109 - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2024-05-28 15:36:26 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-28 15:36:26 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-28 15:36:26 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-28 15:36:26 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-28 15:36:26 DEBUG JdbcTransaction:143 - Opening JDBC Connection
+2024-05-28 15:45:45 DEBUG LogFactory:109 - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2024-05-28 15:45:45 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-28 15:45:45 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-28 15:45:45 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-28 15:45:45 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-28 15:45:45 DEBUG JdbcTransaction:143 - Opening JDBC Connection
+2024-05-28 15:47:30 DEBUG LogFactory:109 - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2024-05-28 15:47:30 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-28 15:47:30 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-28 15:47:30 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-28 15:47:30 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-28 15:47:30 DEBUG JdbcTransaction:143 - Opening JDBC Connection
+2024-05-28 15:47:31 DEBUG PooledDataSource:448 - Created connection 1396431506.
+2024-05-28 15:47:31 DEBUG JdbcTransaction:107 - Setting autocommit to false on JDBC Connection [oracle.jdbc.driver.T4CConnection@533bda92]
+2024-05-28 15:47:31 DEBUG selectJobAll:137 - ==>  Preparing: SELECT JOB_ID, JOB_TITLE, MIN_SALARY, MAX_SALARY FROM JOBS
+2024-05-28 15:47:31 DEBUG selectJobAll:137 - ==> Parameters: 
+2024-05-28 15:47:31 TRACE selectJobAll:143 - <==    Columns: JOB_ID, JOB_TITLE, MIN_SALARY, MAX_SALARY
+2024-05-28 15:47:31 TRACE selectJobAll:143 - <==        Row: AD_PRES, President, 20080, 40000
+2024-05-28 15:47:31 TRACE selectJobAll:143 - <==        Row: AD_VP, Administration Vice President, 15000, 30000
+2024-05-28 15:47:31 TRACE selectJobAll:143 - <==        Row: AD_ASST, Administration Assistant, 3000, 6000
+2024-05-28 15:47:31 TRACE selectJobAll:143 - <==        Row: FI_MGR, Finance Manager, 8200, 16000
+2024-05-28 15:47:31 TRACE selectJobAll:143 - <==        Row: FI_ACCOUNT, Accountant, 4200, 9000
+2024-05-28 15:47:31 TRACE selectJobAll:143 - <==        Row: AC_MGR, Accounting Manager, 8200, 16000
+2024-05-28 15:47:31 TRACE selectJobAll:143 - <==        Row: AC_ACCOUNT, Public Accountant, 4200, 9000
+2024-05-28 15:47:31 TRACE selectJobAll:143 - <==        Row: SA_MAN, Sales Manager, 10000, 20080
+2024-05-28 15:47:31 TRACE selectJobAll:143 - <==        Row: SA_REP, Sales Representative, 6000, 12008
+2024-05-28 15:47:31 TRACE selectJobAll:143 - <==        Row: PU_MAN, Purchasing Manager, 8000, 15000
+2024-05-28 15:47:31 TRACE selectJobAll:143 - <==        Row: PU_CLERK, Purchasing Clerk, 2500, 5500
+2024-05-28 15:47:31 TRACE selectJobAll:143 - <==        Row: ST_MAN, Stock Manager, 5500, 8500
+2024-05-28 15:47:31 TRACE selectJobAll:143 - <==        Row: ST_CLERK, Stock Clerk, 2008, 5000
+2024-05-28 15:47:31 TRACE selectJobAll:143 - <==        Row: SH_CLERK, Shipping Clerk, 2500, 5500
+2024-05-28 15:47:31 TRACE selectJobAll:143 - <==        Row: MK_MAN, Marketing Manager, 9000, 15000
+2024-05-28 15:47:31 TRACE selectJobAll:143 - <==        Row: MK_REP, Marketing Representative, 4000, 9000
+2024-05-28 15:47:31 TRACE selectJobAll:143 - <==        Row: HR_REP, Human Resources Representative, 4000, 9000
+2024-05-28 15:47:31 TRACE selectJobAll:143 - <==        Row: PR_REP, Public Relations Representative, 4500, 10500
+2024-05-28 15:47:31 DEBUG selectJobAll:137 - <==      Total: 18
+2024-05-28 17:12:43 DEBUG LogFactory:109 - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2024-05-28 17:12:43 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-28 17:12:43 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-28 17:12:43 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-28 17:12:43 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-28 17:13:58 DEBUG LogFactory:109 - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2024-05-28 17:13:58 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-28 17:13:58 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-28 17:13:58 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-28 17:13:58 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-28 17:33:38 DEBUG LogFactory:109 - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2024-05-28 17:33:38 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-28 17:33:38 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-28 17:33:38 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-28 17:33:38 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-28 17:33:38 DEBUG JdbcTransaction:143 - Opening JDBC Connection
+2024-05-28 17:33:39 DEBUG PooledDataSource:448 - Created connection 1892627171.
+2024-05-28 17:33:39 DEBUG JdbcTransaction:107 - Setting autocommit to false on JDBC Connection [oracle.jdbc.driver.T4CConnection@70cf32e3]
+2024-05-28 17:33:39 DEBUG select01:137 - ==>  Preparing: SELECT MIN_SALARY FROM JOBS WHERE JOB_ID=?
+2024-05-28 17:33:39 DEBUG select01:137 - ==> Parameters: IP_PROG(String)
+2024-05-28 17:33:39 DEBUG select01:137 - <==      Total: 0
+2024-05-28 17:34:46 DEBUG LogFactory:109 - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2024-05-28 17:34:46 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-28 17:34:46 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-28 17:34:46 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-28 17:34:46 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-28 17:34:46 DEBUG JdbcTransaction:143 - Opening JDBC Connection
+2024-05-28 17:34:46 DEBUG PooledDataSource:448 - Created connection 1892627171.
+2024-05-28 17:34:46 DEBUG JdbcTransaction:107 - Setting autocommit to false on JDBC Connection [oracle.jdbc.driver.T4CConnection@70cf32e3]
+2024-05-28 17:34:47 DEBUG select01:137 - ==>  Preparing: SELECT MIN_SALARY FROM JOBS WHERE JOB_ID=?
+2024-05-28 17:34:47 DEBUG select01:137 - ==> Parameters: IT_PROG(String)
+2024-05-28 17:34:47 DEBUG select01:137 - <==      Total: 0
+2024-05-28 17:39:05 DEBUG LogFactory:109 - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2024-05-28 17:39:05 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-28 17:39:05 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-28 17:39:05 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-28 17:39:05 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-28 17:39:05 TRACE JobsSelectDaoImpl:25 - select01 TRACE 로그
+2024-05-28 17:39:05 DEBUG JdbcTransaction:143 - Opening JDBC Connection
+2024-05-28 17:39:05 DEBUG PooledDataSource:448 - Created connection 1892627171.
+2024-05-28 17:39:05 DEBUG JdbcTransaction:107 - Setting autocommit to false on JDBC Connection [oracle.jdbc.driver.T4CConnection@70cf32e3]
+2024-05-28 17:39:05 DEBUG select01:137 - ==>  Preparing: SELECT MIN_SALARY FROM JOBS WHERE JOB_ID=?
+2024-05-28 17:39:05 DEBUG select01:137 - ==> Parameters: IT_PROG(String)
+2024-05-28 17:39:05 DEBUG select01:137 - <==      Total: 0
+2024-05-29 09:06:19 DEBUG LogFactory:109 - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2024-05-29 09:06:19 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-29 09:06:19 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-29 09:06:19 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-29 09:06:19 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-29 09:06:19 TRACE JobsSelectDaoImpl:25 - select01 TRACE 로그
+2024-05-29 09:06:19 DEBUG JdbcTransaction:143 - Opening JDBC Connection
+2024-05-29 09:06:19 DEBUG PooledDataSource:448 - Created connection 1892627171.
+2024-05-29 09:06:19 DEBUG JdbcTransaction:107 - Setting autocommit to false on JDBC Connection [oracle.jdbc.driver.T4CConnection@70cf32e3]
+2024-05-29 09:06:19 DEBUG select01:137 - ==>  Preparing: SELECT MIN_SALARY FROM JOBS WHERE JOB_ID=?
+2024-05-29 09:06:19 DEBUG select01:137 - ==> Parameters: IT_PROG(String)
+2024-05-29 09:06:19 DEBUG select01:137 - <==      Total: 0
+2024-05-29 10:36:37 DEBUG LogFactory:109 - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2024-05-29 10:36:37 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-29 10:36:37 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-29 10:36:37 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-29 10:36:37 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-29 10:36:37 DEBUG JdbcTransaction:143 - Opening JDBC Connection
+2024-05-29 10:36:37 DEBUG PooledDataSource:448 - Created connection 1892627171.
+2024-05-29 10:36:37 DEBUG JdbcTransaction:107 - Setting autocommit to false on JDBC Connection [oracle.jdbc.driver.T4CConnection@70cf32e3]
+2024-05-29 10:36:37 DEBUG select02:137 - ==>  Preparing: SELECT JOB_ID, JOB_TITLE, MIN_SALARY, MAX_SALARY FROM JOBS WHERE JOB_ID=?
+2024-05-29 10:36:37 DEBUG select02:137 - ==> Parameters: PR_REP(String)
+2024-05-29 10:36:37 TRACE select02:143 - <==    Columns: JOB_ID, JOB_TITLE, MIN_SALARY, MAX_SALARY
+2024-05-29 10:36:37 TRACE select02:143 - <==        Row: PR_REP, Public Relations Representative, 4500, 10500
+2024-05-29 10:36:37 DEBUG select02:137 - <==      Total: 1
+2024-05-29 10:51:39 DEBUG LogFactory:109 - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2024-05-29 10:51:39 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-29 10:51:39 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-29 10:51:39 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-29 10:51:39 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-29 10:51:39 DEBUG JdbcTransaction:143 - Opening JDBC Connection
+2024-05-29 10:51:39 DEBUG PooledDataSource:448 - Created connection 1892627171.
+2024-05-29 10:51:39 DEBUG JdbcTransaction:107 - Setting autocommit to false on JDBC Connection [oracle.jdbc.driver.T4CConnection@70cf32e3]
+2024-05-29 10:51:39 DEBUG select02:137 - ==>  Preparing: SELECT JOB_ID, JOB_TITLE, MIN_SALARY, MAX_SALARY FROM JOBS WHERE JOB_ID=?
+2024-05-29 10:51:40 DEBUG select02:137 - ==> Parameters: PR_REP(String)
+2024-05-29 10:51:40 TRACE select02:143 - <==    Columns: JOB_ID, JOB_TITLE, MIN_SALARY, MAX_SALARY
+2024-05-29 10:51:40 TRACE select02:143 - <==        Row: PR_REP, Public Relations Representative, 4500, 10500
+2024-05-29 10:51:40 DEBUG select02:137 - <==      Total: 1
+2024-05-29 11:17:25 DEBUG LogFactory:109 - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2024-05-29 11:17:25 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-29 11:17:25 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-29 11:17:25 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-29 11:17:25 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-29 11:17:25 DEBUG JdbcTransaction:143 - Opening JDBC Connection
+2024-05-29 11:17:25 DEBUG PooledDataSource:448 - Created connection 1892627171.
+2024-05-29 11:17:25 DEBUG JdbcTransaction:107 - Setting autocommit to false on JDBC Connection [oracle.jdbc.driver.T4CConnection@70cf32e3]
+2024-05-29 11:17:25 DEBUG select03:137 - ==>  Preparing: SELECT PLAYER_ID AS JOB_ID, PLAYER_NAME AS JOB_TITLE, HEIGHT AS MIN_SALARY, WEIGHT AS MAX_SALARY FROM PLAYER p WHERE PLAYER_ID=?
+2024-05-29 11:17:25 DEBUG select03:137 - ==> Parameters: 2007155(String)
+2024-05-29 11:17:25 TRACE select03:143 - <==    Columns: JOB_ID, JOB_TITLE, MIN_SALARY, MAX_SALARY
+2024-05-29 11:17:25 TRACE select03:143 - <==        Row: 2007155, 정경량, 173, 65
+2024-05-29 11:17:25 DEBUG select03:137 - <==      Total: 1
+2024-05-29 11:49:16 DEBUG LogFactory:109 - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2024-05-29 11:49:16 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-29 11:49:16 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-29 11:49:16 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-29 11:49:16 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-29 11:49:16 INFO  JobsSelectDaoImpl:56 - 결과가 java.util.Map인 경우 반드시 key가 되는 컬럼을 선정해줘야 한다
+2024-05-29 11:49:16 DEBUG JdbcTransaction:143 - Opening JDBC Connection
+2024-05-29 11:49:17 DEBUG PooledDataSource:448 - Created connection 438589491.
+2024-05-29 11:49:17 DEBUG JdbcTransaction:107 - Setting autocommit to false on JDBC Connection [oracle.jdbc.driver.T4CConnection@1a245833]
+2024-05-29 11:49:17 DEBUG select04:137 - ==>  Preparing: SELECT JOB_ID, JOB_TITLE, MIN_SALARY, MAX_SALARY FROM JOBS
+2024-05-29 11:49:17 DEBUG select04:137 - ==> Parameters: 
+2024-05-29 11:49:17 TRACE select04:143 - <==    Columns: JOB_ID, JOB_TITLE, MIN_SALARY, MAX_SALARY
+2024-05-29 11:49:17 TRACE select04:143 - <==        Row: AD_PRES, President, 20080, 40000
+2024-05-29 11:49:17 TRACE select04:143 - <==        Row: AD_VP, Administration Vice President, 15000, 30000
+2024-05-29 11:49:17 TRACE select04:143 - <==        Row: AD_ASST, Administration Assistant, 3000, 6000
+2024-05-29 11:49:17 TRACE select04:143 - <==        Row: FI_MGR, Finance Manager, 8200, 16000
+2024-05-29 11:49:17 TRACE select04:143 - <==        Row: FI_ACCOUNT, Accountant, 4200, 9000
+2024-05-29 11:49:17 TRACE select04:143 - <==        Row: AC_MGR, Accounting Manager, 8200, 16000
+2024-05-29 11:49:17 TRACE select04:143 - <==        Row: AC_ACCOUNT, Public Accountant, 4200, 9000
+2024-05-29 11:49:17 TRACE select04:143 - <==        Row: SA_MAN, Sales Manager, 10000, 20080
+2024-05-29 11:49:17 TRACE select04:143 - <==        Row: SA_REP, Sales Representative, 6000, 12008
+2024-05-29 11:49:17 TRACE select04:143 - <==        Row: PU_MAN, Purchasing Manager, 8000, 15000
+2024-05-29 11:49:17 TRACE select04:143 - <==        Row: PU_CLERK, Purchasing Clerk, 2500, 5500
+2024-05-29 11:49:17 TRACE select04:143 - <==        Row: ST_MAN, Stock Manager, 5500, 8500
+2024-05-29 11:49:17 TRACE select04:143 - <==        Row: ST_CLERK, Stock Clerk, 2008, 5000
+2024-05-29 11:49:17 TRACE select04:143 - <==        Row: SH_CLERK, Shipping Clerk, 2500, 5500
+2024-05-29 11:49:17 TRACE select04:143 - <==        Row: MK_MAN, Marketing Manager, 9000, 15000
+2024-05-29 11:49:17 TRACE select04:143 - <==        Row: MK_REP, Marketing Representative, 4000, 9000
+2024-05-29 11:49:17 TRACE select04:143 - <==        Row: HR_REP, Human Resources Representative, 4000, 9000
+2024-05-29 11:49:17 TRACE select04:143 - <==        Row: PR_REP, Public Relations Representative, 4500, 10500
+2024-05-29 11:49:17 DEBUG select04:137 - <==      Total: 18
+2024-05-29 12:10:30 DEBUG LogFactory:109 - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2024-05-29 12:10:30 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-29 12:10:30 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-29 12:10:30 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-29 12:10:30 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-29 12:10:30 INFO  JobsSelectDaoImpl:65 - 입력하는 parameter가 여러개라면 DTO를 사용하여 getter를 통해 전달한다
+2024-05-29 12:10:30 DEBUG JdbcTransaction:143 - Opening JDBC Connection
+2024-05-29 12:10:31 DEBUG PooledDataSource:448 - Created connection 438589491.
+2024-05-29 12:10:31 DEBUG JdbcTransaction:107 - Setting autocommit to false on JDBC Connection [oracle.jdbc.driver.T4CConnection@1a245833]
+2024-05-29 12:10:31 DEBUG select05:137 - ==>  Preparing: SELECT JOB_ID, JOB_TITLE, MIN_SALARY, MAX_SALARY FROM JOBS WHERE JOB_ID=? AND JOB_TITLE=?
+2024-05-29 12:10:31 DEBUG select05:137 - ==> Parameters: AD_PRES(String), President(String)
+2024-05-29 12:10:31 TRACE select05:143 - <==    Columns: JOB_ID, JOB_TITLE, MIN_SALARY, MAX_SALARY
+2024-05-29 12:10:31 TRACE select05:143 - <==        Row: AD_PRES, President, 20080, 40000
+2024-05-29 12:10:31 DEBUG select05:137 - <==      Total: 1
+2024-05-29 12:10:43 DEBUG LogFactory:109 - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2024-05-29 12:10:43 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-29 12:10:43 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-29 12:10:43 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-29 12:10:43 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-29 12:10:43 INFO  JobsSelectDaoImpl:65 - 입력하는 parameter가 여러개라면 DTO를 사용하여 getter를 통해 전달한다
+2024-05-29 12:10:43 DEBUG JdbcTransaction:143 - Opening JDBC Connection
+2024-05-29 12:10:43 DEBUG PooledDataSource:448 - Created connection 438589491.
+2024-05-29 12:10:43 DEBUG JdbcTransaction:107 - Setting autocommit to false on JDBC Connection [oracle.jdbc.driver.T4CConnection@1a245833]
+2024-05-29 12:10:43 DEBUG select05:137 - ==>  Preparing: SELECT JOB_ID, JOB_TITLE, MIN_SALARY, MAX_SALARY FROM JOBS WHERE JOB_ID=? AND JOB_TITLE=?
+2024-05-29 12:10:43 DEBUG select05:137 - ==> Parameters: AD_PRES(String), President(String)
+2024-05-29 12:10:43 TRACE select05:143 - <==    Columns: JOB_ID, JOB_TITLE, MIN_SALARY, MAX_SALARY
+2024-05-29 12:10:43 TRACE select05:143 - <==        Row: AD_PRES, President, 20080, 40000
+2024-05-29 12:10:43 DEBUG select05:137 - <==      Total: 1
+2024-05-29 12:23:23 DEBUG LogFactory:109 - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2024-05-29 12:23:23 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-29 12:23:23 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-29 12:23:23 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-29 12:23:23 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-29 12:23:23 DEBUG JdbcTransaction:143 - Opening JDBC Connection
+2024-05-29 12:23:23 DEBUG PooledDataSource:448 - Created connection 93740343.
+2024-05-29 12:23:23 DEBUG JdbcTransaction:107 - Setting autocommit to false on JDBC Connection [oracle.jdbc.driver.T4CConnection@5965d37]
+2024-05-29 12:23:23 DEBUG select06:137 - ==>  Preparing: SELECT JOB_ID, JOB_TITLE, MIN_SALARY, MAX_SALARY FROM JOBS WHERE JOB_ID=? AND JOB_TITLE=?
+2024-05-29 12:23:23 DEBUG select06:137 - ==> Parameters: AD_PRES(String), President(String)
+2024-05-29 12:23:23 TRACE select06:143 - <==    Columns: JOB_ID, JOB_TITLE, MIN_SALARY, MAX_SALARY
+2024-05-29 12:23:23 TRACE select06:143 - <==        Row: AD_PRES, President, 20080, 40000
+2024-05-29 12:23:23 DEBUG select06:137 - <==      Total: 1
+2024-05-29 12:46:50 DEBUG LogFactory:109 - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2024-05-29 12:46:50 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-29 12:46:50 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-29 12:46:50 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-29 12:46:50 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-29 12:46:50 INFO  JobsSelectDaoImpl:80 - SQL문의 CDATA 처리
+2024-05-29 12:47:40 DEBUG LogFactory:109 - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2024-05-29 12:47:40 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-29 12:47:40 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-29 12:47:40 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-29 12:47:40 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-29 12:47:40 INFO  JobsSelectDaoImpl:80 - SQL문의 CDATA 처리
+2024-05-29 12:47:40 DEBUG JdbcTransaction:143 - Opening JDBC Connection
+2024-05-29 12:47:41 DEBUG PooledDataSource:448 - Created connection 2052910813.
+2024-05-29 12:47:41 DEBUG JdbcTransaction:107 - Setting autocommit to false on JDBC Connection [oracle.jdbc.driver.T4CConnection@7a5ceedd]
+2024-05-29 12:47:41 DEBUG select07:137 - ==>  Preparing: SELECT JOB_ID, JOB_TITLE, MIN_SALARY, MAX_SALARY FROM JOBS WHERE MIN_SALARY < ?
+2024-05-29 12:47:41 DEBUG select07:137 - ==> Parameters: 3000(Integer)
+2024-05-29 12:47:41 TRACE select07:143 - <==    Columns: JOB_ID, JOB_TITLE, MIN_SALARY, MAX_SALARY
+2024-05-29 12:47:41 TRACE select07:143 - <==        Row: PU_CLERK, Purchasing Clerk, 2500, 5500
+2024-05-29 12:47:41 TRACE select07:143 - <==        Row: ST_CLERK, Stock Clerk, 2008, 5000
+2024-05-29 12:47:41 TRACE select07:143 - <==        Row: SH_CLERK, Shipping Clerk, 2500, 5500
+2024-05-29 12:47:41 DEBUG select07:137 - <==      Total: 3
+2024-05-29 15:15:48 DEBUG LogFactory:109 - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2024-05-29 15:15:48 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-29 15:15:48 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-29 15:15:48 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-29 15:15:48 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-29 15:16:41 DEBUG LogFactory:109 - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2024-05-29 15:16:41 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-29 15:16:41 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-29 15:16:41 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-29 15:16:41 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-29 16:03:50 DEBUG LogFactory:109 - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2024-05-29 16:03:50 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-29 16:03:50 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-29 16:03:50 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-29 16:03:50 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-29 16:03:50 INFO  JobsIDUDaoImpl:31 - delete01 반드시 SQL문의 바인딩되는 변수명을 확인
+2024-05-29 16:03:50 DEBUG JdbcTransaction:143 - Opening JDBC Connection
+2024-05-29 16:03:50 DEBUG PooledDataSource:448 - Created connection 1293677337.
+2024-05-29 16:03:50 DEBUG delete01:137 - ==>  Preparing: DELETE FROM JOBS WHERE JOB_ID=? AND JOB_TITLE=?
+2024-05-29 16:03:50 DEBUG delete01:137 - ==> Parameters: IT(String), IT(String)
+2024-05-29 16:03:50 DEBUG delete01:137 - <==    Updates: 0
+2024-05-29 16:05:44 DEBUG LogFactory:109 - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2024-05-29 16:05:44 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-29 16:05:44 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-29 16:05:44 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-29 16:05:44 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-29 16:05:44 INFO  JobsIDUDaoImpl:20 - insert01 입력: JobsVo(job_id=IT, job_title=IT, min_salary=1000, max_salary=1000)
+2024-05-29 16:05:44 DEBUG JdbcTransaction:143 - Opening JDBC Connection
+2024-05-29 16:05:44 DEBUG PooledDataSource:448 - Created connection 1823541245.
+2024-05-29 16:05:44 DEBUG insert01:137 - ==>  Preparing: INSERT INTO JOBS(JOB_ID, JOB_TITLE, MIN_SALARY, MAX_SALARY) VALUES(?,?,?,?)
+2024-05-29 16:05:44 DEBUG insert01:137 - ==> Parameters: IT(String), IT(String), 1000(Integer), 1000(Integer)
+2024-05-29 16:05:44 DEBUG insert01:137 - <==    Updates: 1
+2024-05-29 16:05:52 DEBUG LogFactory:109 - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2024-05-29 16:05:52 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-29 16:05:52 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-29 16:05:52 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-29 16:05:52 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-29 16:05:52 INFO  JobsIDUDaoImpl:31 - delete01 반드시 SQL문의 바인딩되는 변수명을 확인
+2024-05-29 16:05:52 DEBUG JdbcTransaction:143 - Opening JDBC Connection
+2024-05-29 16:05:52 DEBUG PooledDataSource:448 - Created connection 1293677337.
+2024-05-29 16:05:52 DEBUG delete01:137 - ==>  Preparing: DELETE FROM JOBS WHERE JOB_ID=? AND JOB_TITLE=?
+2024-05-29 16:05:52 DEBUG delete01:137 - ==> Parameters: IT(String), IT(String)
+2024-05-29 16:05:52 DEBUG delete01:137 - <==    Updates: 1
+2024-05-29 16:20:47 DEBUG LogFactory:109 - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2024-05-29 16:20:47 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-29 16:20:47 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-29 16:20:47 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-29 16:20:47 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-29 16:20:47 INFO  JobsIDUDaoImpl:31 - update01 수정
+2024-05-29 16:20:47 DEBUG JdbcTransaction:143 - Opening JDBC Connection
+2024-05-29 16:20:48 DEBUG PooledDataSource:448 - Created connection 1551945522.
+2024-05-29 16:20:48 DEBUG insert01:137 - ==>  Preparing: INSERT INTO JOBS(JOB_ID, JOB_TITLE, MIN_SALARY, MAX_SALARY) VALUES(?,?,?,?)
+2024-05-29 16:25:29 DEBUG LogFactory:109 - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2024-05-29 16:25:29 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-29 16:25:29 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-29 16:25:29 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-29 16:25:29 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-29 16:25:29 INFO  JobsIDUDaoImpl:31 - update01 수정
+2024-05-29 16:25:29 DEBUG JdbcTransaction:143 - Opening JDBC Connection
+2024-05-29 16:25:29 DEBUG PooledDataSource:448 - Created connection 1551945522.
+2024-05-29 16:25:29 DEBUG insert01:137 - ==>  Preparing: INSERT INTO JOBS(JOB_ID, JOB_TITLE, MIN_SALARY, MAX_SALARY) VALUES(?,?,?,?)
+2024-05-29 16:25:58 DEBUG LogFactory:109 - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2024-05-29 16:25:58 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-29 16:25:58 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-29 16:25:58 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-29 16:25:58 DEBUG PooledDataSource:373 - PooledDataSource forcefully closed/removed all connections.
+2024-05-29 16:25:58 INFO  JobsIDUDaoImpl:31 - update01 수정
+2024-05-29 16:25:58 DEBUG JdbcTransaction:143 - Opening JDBC Connection
+2024-05-29 16:25:58 DEBUG PooledDataSource:448 - Created connection 1551945522.
+2024-05-29 16:25:58 DEBUG update01:137 - ==>  Preparing: UPDATE JOBS SET JOB_ID=?, JOB_TITLE=? WHERE LOWER(JOB_ID)=LOWER(?)
+2024-05-29 16:25:58 DEBUG update01:137 - ==> Parameters: IT_DEV(String), 개발자(String), IT_PROG(String)
+2024-05-29 16:25:58 DEBUG update01:137 - <==    Updates: 0
